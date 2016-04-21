@@ -1,0 +1,11 @@
+CSCI, 1300, Computer Science 1: Starting Computing, 4, 0, 0
+CSCI, 1310, Computer Science 1: Starting Computing - Experienced, 4, 0, 0
+CSCI, 1320, Computer Science 1: Starting Computing-Engineering Applications, 4, 0, 0
+ECEN, 1310, C and MATLAB Programming for Electrical & Computer Engineers, 4, 0, 0
+and
+CSCI, 2270, Computer Science 2: Data Structures, 4, 1, 0
+and
+CSCI, 2400, Computer Systems, 4, 0, 1
+and
+CSCI, 2824, Discrete Structures, 3, 1, 1
+ECEN, 2703, Discrete Mathematics for Computer Engineers, 3, 1, 0
