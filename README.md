@@ -9,7 +9,7 @@ For my final project, I wanted to make something that I could actually use. Afte
 
 The program can be run through any IDE, or it can be run in a terminal by running the MinorAuditMk2 executable file. When it starts, the user will be prompetd with a title and menu like this:
 
-|===================================================
+|===================================================\n
 |      COMPUTER SCIENCE MINOR PROGRESS CHECKER
 |                      made for
 |           University of Colorado, Boulder
