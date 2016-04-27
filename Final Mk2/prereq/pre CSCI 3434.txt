@@ -1,0 +1,3 @@
+CSCI, 3104, Algorithms, 4, 1, 0
+and
+CSCI, 3155, Principles of Programming Languages, 4, 1, 0

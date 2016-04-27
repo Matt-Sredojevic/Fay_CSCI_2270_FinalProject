@@ -1,0 +1,4 @@
+CSCI, 2824, Discrete Structures, 3, 1, 1
+MATH, 2001, Introduction to Discrete Mathematics, 3, 1, 0
+ECEN, 2703, Discrete Mathematics for Computer Engineers, 3, 1, 0
+APPM, 3170, Discrete Applied Mathematics, 3, 1, 0

@@ -1,0 +1,2 @@
+APPM, 3570, Applied Probability, 3, 0, 1
+MATH, 4510, Introduction to Probability Theory, 3, 1, 0

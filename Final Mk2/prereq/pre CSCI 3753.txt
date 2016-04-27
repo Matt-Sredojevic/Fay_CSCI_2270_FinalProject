@@ -1,0 +1,4 @@
+CSCI, 2270, Computer Science 2: Data Structures, 4, 1, 0
+and
+CSCI, 2400, Computer Systems, 4, 0, 1
+ECEN, 3350, Programming Digital Systems, 3, 1, 0

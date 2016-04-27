@@ -1,0 +1,4 @@
+PSYC, 2145, Introductory Cognitive Psychology, 3, 1, 0
+LING, 2000, Introduction to Linguistics, 3, 0, 0
+CSCI, 1300, Computer Science 1: Starting Computing, 4, 0, 0
+PHIL, 2440, Symbolic Logic, 3, 0, 0

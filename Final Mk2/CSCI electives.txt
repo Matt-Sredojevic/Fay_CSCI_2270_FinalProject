@@ -1,0 +1,28 @@
+CSCI, 3104, Algorithms, 4, 1, 0
+CSCI, 3002, HCC Foundations/User-Centered Design and Development 1, 3, 0, 0
+CSCI, 3112, Human-Centered Computing Professional Development, 1, 0, 0
+CSCI, 3155, Principles of Programming Languages, 4, 1, 0
+CSCI, 3202, Introduction to Artificial Intelligence, 3, 1, 0
+CSCI, 3287, Design and Analysis of Data Systems, 3, 1, 0
+CSCI, 3302, Introduction to Robotics, 3, 1, 0
+CSCI, 3308, SoftwareDevelopment Methods and Tools, 3, 1, 0
+CSCI, 3434, Theory of Computation, 3, 1, 0
+CSCI, 3656, Numerical Computation, 3, 1, 0
+CSCI, 3702, Cognitive Science, 3, 1, 0
+CSCI, 3753, Design and Analysis of Operating Systems, 4, 1, 0
+CSCI, 4113, Unix System Administration, 3, 1, 0
+CSCI, 4229, Computer Graphics, 3, 1, 0
+CSCI, 4239, Advanced Computer Graphics, 3, 1, 0
+CSCI, 4273, Network Systems, 3, 1, 0
+CSCI, 4302, Advanced Robotics, 3, 1, 0
+CSCI, 4314, Algorithms for Molecular Biology, 3, 1, 0
+CSCI, 4446, Chaotic Dynamics, 3, 1, 0
+CSCI, 4448, Object-Oriented Analysis and Design, 3, 1, 0
+CSCI, 4502, Data Mining, 3, 1, 0
+CSCI, 4555, Compiler Construction, 3, 1, 0
+CSCI, 4576, High-Performance Scientific Computing, 4, 0, 0
+CSCI, 4593, Computer Organization, 3, 1, 0
+CSCI, 4753, Computer Performance Modeling, 3, 1, 0
+CSCI, 4809, Computer Animation, 3, 0, 0
+CSCI, 4810, Seminar in Computational Biology, 1, 0, 0
+CSCI, 4830, Special Topics in Computer Science, 1, 1, 0

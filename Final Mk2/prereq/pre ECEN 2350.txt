@@ -1,0 +1,2 @@
+CSCI, 1300, Computer Science 1: Starting Computing, 4, 0, 0
+ECEN, 1310, C and MATLAB Programming for Electrical & Computer Engineers, 4, 0, 0

@@ -1,0 +1,13 @@
+CSCI, 1300, Computer Science 1: Starting Computing, 4, 0, 0
+CSCI, 1310, Computer Science 1: Starting Computing - Experienced, 4, 0, 0
+CSCI, 1320, Computer Science 1: Starting Computing-Engineering Applications, 4, 0, 0
+and
+APPM, 1350, Calculus 1 for Engineers, 4, 0, 0
+MATH, 1300, Calculus 1, 5, 0, 0
+and
+APPM, 1360, Calculus 2 for Engineers, 4, 1, 0
+MATH, 2300, Calculus 2, 5, 1, 0
+and
+MATH, 3130, Introduction to Linear Algebra, 3, 1, 0
+APPM, 3310, Matrix Methods and Applications, 3, 1, 0
+CSCI, 2820, Linear Algebra with Computer Science Applications, 3, 1, 0

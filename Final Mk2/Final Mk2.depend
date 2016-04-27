@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1461453873 source:/home/user/Documents/School/CSCI 2270/Homework/Final/Final Mk2/AuditGraph.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<queue>
+	"AuditGraph.h"
+
+1461440817 /home/user/Documents/School/CSCI 2270/Homework/Final/Final Mk2/AuditGraph.h
+	<vector>
+	<iostream>
+
+1461453549 source:/home/user/Documents/School/CSCI 2270/Homework/Final/Final Mk2/MinorAuditMk2.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	"AuditGraph.h"
+
+1461453549 source:/media/sf_VM_Share/School/CSCI 2270/Homework/Final/Final Mk2/MinorAuditMk2.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	"AuditGraph.h"
+
+1461440817 /media/sf_VM_Share/School/CSCI 2270/Homework/Final/Final Mk2/AuditGraph.h
+	<vector>
+	<iostream>
+

@@ -1,0 +1,4 @@
+MATH, 2001, Introduction to Discrete Mathematics, 3, 1, 0
+and
+APPM, 1360, Calculus 2 for Engineers, 4, 1, 0
+MATH, 2300, Calculus 2, 5, 1, 0

@@ -1,0 +1,6 @@
+CSCI, 1300, Computer Science 1: Starting Computing, 4, 0, 0
+CSCI, 1310, Computer Science 1: Starting Computing - Experienced, 4, 0, 0
+CSCI, 1320, Computer Science 1: Starting Computing-Engineering Applications, 4, 0, 0
+and
+APPM, 2350, Calculus 3 for Engineers, 4, 1, 0
+MATH, 2400, Calculus 3, 4, 1, 0
