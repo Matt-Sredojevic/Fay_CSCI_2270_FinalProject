@@ -10,34 +10,40 @@ For my final project, I wanted to make something that I could actually use. Afte
 The program can be run through any IDE, or it can be run in a terminal by running the MinorAuditMk2 executable file. When it starts, the user will be prompetd with a title and menu like this:
 
 
-^===================================================
+===================================================
 
-^      COMPUTER SCIENCE MINOR PROGRESS CHECKER
+      COMPUTER SCIENCE MINOR PROGRESS CHECKER
 
-^                      made for
+                      made for
 
-^           University of Colorado, Boulder
+           University of Colorado, Boulder
 
-^___________________________________________________
+___________________________________________________
 
-^
 
-^            A final project for CSCI 2270
 
-^                    By Justin Fay
+            A final project for CSCI 2270
 
-^===================================================
+                    By Justin Fay
+
+===================================================
 
 
 
 ============MENU============
 
 1: List all classes
+
 2: List completed classes
+
 3: List electives
+
 4: Show requisites
+
 5: Add a completed class
+
 6: Remaining requirements
+
 7: End audit
 
 ============================
