@@ -9,38 +9,38 @@ For my final project, I wanted to make something that I could actually use. Afte
 
 The program can be run through any IDE, or it can be run in a terminal by running the MinorAuditMk2 executable file. When it starts, the user will be prompetd with a title and menu like this:
 
-**===================================================
-**      COMPUTER SCIENCE MINOR PROGRESS CHECKER
-**                      made for
-**           University of Colorado, Boulder
-**___________________________________________________
-**
-**            A final project for CSCI 2270
-**                    By Justin Fay
-**===================================================
-**
-**============MENU============
-**1: List all classes
-**2: List completed classes
-**3: List electives
-**4: Show requisites
-**5: Add a completed class
-**6. Remaining requirements
-**7: End audit
-**============================
+^===================================================
+^      COMPUTER SCIENCE MINOR PROGRESS CHECKER
+^                      made for
+^           University of Colorado, Boulder
+^___________________________________________________
+^
+^            A final project for CSCI 2270
+^                    By Justin Fay
+^===================================================
+^
+^============MENU============
+^1: List all classes
+^2: List completed classes
+^3: List electives
+^4: Show requisites
+^5: Add a completed class
+^6. Remaining requirements
+^7: End audit
+^============================
 
 At this point all the user has to do is make a decision from the menu by typing the number of their desired function and pressing enter. For the first three choices, the program will list the requested classes without need for any additional input.
 If the user chooses options 4 or 5, they will be prompted with:
 
-**Enter class prefix and number (Ex: "CSCI 2270"):
+^Enter class prefix and number (Ex: "CSCI 2270"):
 
 Here they will have to enter the desired class in the format above. If the class is not entered in this format, it will display:
 
-**please enter a valid class
+^please enter a valid class
 
 If the program does not recognize the class, it will display:
 
-**Class not recognized
+^Class not recognized
 
 If the user chooses option 6, the program will display requirements still need to be completed for the computer science minor.
 
