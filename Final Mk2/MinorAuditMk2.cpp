@@ -76,7 +76,7 @@ int main()
 			}
 			else
 			{
-				cout << "please endter a valid class" << endl;
+				cout << "please enter a valid class" << endl;
 			}
 		}
 		else if(menu==6)
