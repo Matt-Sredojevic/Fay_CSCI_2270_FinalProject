@@ -31,7 +31,7 @@ int main()
 		cout << "3: List electives"				<< endl;
 		cout << "4: Show requisites"			<< endl;
 		cout << "5: Add a completed class"		<< endl;
-		cout << "6. Remaining requirements"		<< endl;
+		cout << "6: Remaining requirements"		<< endl;
 		cout << "7: End audit"					<< endl;
 		cout << "============================"  << endl;
 		cout <<	endl;
