@@ -7,7 +7,7 @@ For my final project, I wanted to make something that I could actually use. Afte
 
 =======================How to Run====================================
 
-The program can be run through any IDE, or it can be run in a terminal by running the MinorAuditMk2 executable file. When it starts, the user will be prompetd with a title and menu like this:
+To get the program, download and extract all files from MinorAudit.zip to the desired location on your computer. The program can be run through any IDE, or it can be run in a terminal by running the MinorAuditMk2 executable file. When it starts, the user will be prompetd with a title and menu like this:
 
 
 ===================================================
