@@ -47,6 +47,7 @@ class AuditGraph
 		~AuditGraph();
 		void readMinor();
 		void readElective();
+		void printElective();
 		void listAll();
 		void listComplete();
 		void showReq(std::string prefix, int number);

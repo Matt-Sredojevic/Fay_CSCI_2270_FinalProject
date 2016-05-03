@@ -4,6 +4,7 @@
 #include <vector>
 #include <queue>
 #include "AuditGraph.h"
+///This Project was edited by Matthew Sredojevic
 
 //===================================================================================================================
 
@@ -171,6 +172,56 @@ void AuditGraph::readElective()
 
 //===================================================================================================================
 
+void AuditGraph::printElective()
+{
+    std::cout << "===========Electives===========" << std::endl;
+	std::ifstream elect;
+	std::string l;
+	int spinner = 0;
+	elect.open("CSCI electives.txt");
+	if(elect.is_open())
+	{
+		int j = 0;
+		while(getline(elect, l))
+		{
+			std::string data, prefix, title;
+			int number, hours;
+			bool pre, co;
+			std::istringstream line(l);
+			while(getline(line, data, ','))
+			{
+				if(spinner==0)
+				{
+					prefix = data;
+					std::cout<<prefix<<"   ";
+				}
+				else if(spinner==1)
+				{
+					std::stringstream ss(data);
+					ss >> number;
+					std::cout<<number<<"   ";
+				}
+				else if(spinner==2)
+				{
+					title = data;
+					title.erase(title.begin());
+					std::cout<<title<<"   ";
+				}
+				else if(spinner==3)
+				{
+					std::stringstream ss(data);
+					ss >> hours;
+					std::cout<<"("<<hours<<")"<<std::endl;
+				}
+				spinner = (spinner+1)%6;
+			}
+		}
+	}
+	std::cout << std::endl;
+}
+
+//===================================================================================================================
+
 void AuditGraph::listAll()
 {
 	std::cout << "============Classes============" << std::endl;
@@ -181,7 +232,7 @@ void AuditGraph::listAll()
 		std::cout << all[i].title << "   ";
 		std::cout << "(" << all[i].hours << ")" << std::endl;
 	}
-	std::cout << std::endl;
+
 }
 
 //===================================================================================================================

@@ -46,7 +46,7 @@ int main()
 		}
 		else if(menu==3)
 		{
-
+            AUDIT->printElective();
 		}
 		else if(menu==4)
 		{
